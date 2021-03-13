@@ -50,7 +50,7 @@ In the console run:
 
 ### Demo
 
-![Simple Machine Learning Classifier Demo Video](https://github.com/leorrose/Simple-machine-learning-classifier-tool/blob/master/demo.gif)
+![Simple Machine Learning Classifier Demo Video](https://github.com/Yahavba/Simple-machine-learning-classifier-tool/blob/master/demo.gif)
 
 Please let me know if you find bugs or something that needs to be fixed.
 
